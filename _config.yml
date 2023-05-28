@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Mayra Weidner&#39s Portfolio
+title: Mayra Weidner Portfolio
 description: This site documents my job search and preparation for software developer interviews
 
 show_downloads: true #["true" or "false" (unquoted) to indicate whether to provide a download URL]
