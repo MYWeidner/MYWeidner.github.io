@@ -91,8 +91,8 @@ Tentative Schedule:
 [My website](https://myweidner.github.io)
 
 ### Other Links
-[Weekly Project Updates](.updates.md)
+[Weekly Project Updates](./updates)
 
-[Final Project Report](./project/final)
+[Final Project Report](./final)
 
 [Back](./)
