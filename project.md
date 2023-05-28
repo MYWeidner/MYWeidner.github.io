@@ -92,5 +92,7 @@ Tentative Schedule:
 
 ### Other Links
 [Weekly Project Updates](./project/updates)
+
 [Final Project Report](./project/final)
-[back](./)
+
+[Back](./)
