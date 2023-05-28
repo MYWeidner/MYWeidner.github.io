@@ -1,4 +1,4 @@
-# Professional Development CSPB 3112
+# Mayra Weidner's Portfolio
 
 ### Directory
 [Project](/project.md)
