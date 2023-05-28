@@ -6,3 +6,8 @@ title: Mayra Weidner Portfolio
 description: This site documents my job search and preparation for software developer interviews
 
 show_downloads: true #["true" or "false" (unquoted) to indicate whether to provide a download URL]
+
+plugins:
+  - jekyll-relative-links
+  
+
