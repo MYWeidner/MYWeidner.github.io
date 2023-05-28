@@ -1,7 +1,7 @@
 <!---
 layout: page
 title: "Updates"
-permalink: /updates
+permalink: /project/updates
 --->
 
 ## Weekly Project Updates
