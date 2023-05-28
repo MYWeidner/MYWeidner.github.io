@@ -1,6 +1,7 @@
 # Mayra Weidner's Portfolio
 
 ### Directory
+___
 [Project](/project.md)
 
 [Weekly Project Updates](/updates.md)
