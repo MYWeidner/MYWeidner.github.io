@@ -20,3 +20,11 @@ permalink: /updates
 * This week, I plan to ...
 * ...
 * ...
+
+
+### Other Links
+[Project](./project)
+
+[Final Project Report](./project/final)
+
+[Back](./)
