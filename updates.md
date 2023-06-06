@@ -40,7 +40,7 @@ I also started exploring LeetCode array problems. I only had time to complete 2 
 
 **What do you plan to do this week?** 
 * Work LeetCode problems: arrays, strings, and linked list
-* Soft skills course - https://www.linkedin.com/learning/speaking-confidently-and-effectively 
+* Soft skills [course](https://www.linkedin.com/learning/speaking-confidently-and-effectively) 
 
 **Are there any impediments in your way?**
 The only impediment is time. I'm taking Data Science and an independent research project this semester which is taking more time than I anticipated.
