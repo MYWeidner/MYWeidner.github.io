@@ -51,6 +51,6 @@ Last week I decided to work on this project at least an hour a day. I found that
 ### Other Links
 [Project](./project)
 
-[Final Project Report](./project/final)
+[Final Project Report](./final)
 
 [Back](./)
