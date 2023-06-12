@@ -59,7 +59,7 @@ Last week I spent some time working LeetCode problems. Specifically, I worked al
 
 I also watched a LinkedIn training [video](https://www.linkedin.com/learning/expert-tips-for-answering-common-interview-questions/salary-negotiation-approach-and-tips) on interviewing techniques. I highly recommend this training as it teaches you how to answer the most common behavioral interview questions and has examples of people answering the questions with critiques on how they can improve. I signed up for the free 30 trial of LinkedIn Learning to watch the video.
 
-[Certificate of Completion](./CertOfCompl/CertificateOfCompletion_Expert%Tips%for%Answering%Common%Interview%Questions.pdf)
+[Certificate of Completion](./CertOfCompl/BehaviorQuestions.pdf)
 
 **What do you plan to do this week?** 
 * Soft skills [training](https://www.linkedin.com/learning/interpersonal-communication/interpersonal-communication)
