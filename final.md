@@ -13,4 +13,4 @@ permalink: /final
 
 [Final Project Report](./final)
 
-[Back](./)
+[Home](./)
