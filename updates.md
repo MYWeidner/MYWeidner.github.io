@@ -74,10 +74,44 @@ No impediments.
 
 Spending the first half of the week concentrating on 1 class and my independent research project really helped. I spent the rest of the week and some of the weekend switching back and forth. I'm going to proceed with this schedule and report back if it starts to become a problem.
 
+### Week 5:
+**What did you do last week?** 
+
+Last week I spent a couple of days working through the strings section in [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/). I've been pretty good about sticking to my timing rule. I work the problem on my own for 20 minutes. If I get a working solution great, but if I don't then I check out the discussion page in LeetCode for hints. If I still don't get a working solution, I try YouTube. The NeetCode channel has been a great resource and I find myself watching the videos just to get a second of third way to solve the same problem.
+
+Just like I did with the array section, I am linking my notes so that other students can use them if they'd like.
+
+[Progress Report](./CodingPractice/Progress/Strings.png)
+
+[My Strings Notes](./CodingPractice/Strings.docx)
+
+I also watched a LinkedIn Learning video on interpersonal communication. One thing I found interesting is that people give you subtle non-verbal clues when they are ready to leave a conversation. For example, someone who is ready to leave the room and the conversation may start pointing their feet toward the exit. The video is on the shorter side (37 minutes) and I think there may be better videos out there. I found this video more comedic than helpful to be honest. The one thing I did get out of the experience is the realization that I should be spending my time watching videos on interviewing techniques and mock interviews, so I updated my proposal to reflect this change.
+
+[Certificate of Completion](./CertOfCompl/InterpersonalCommunication.pdf)
+
+I applied to 4 jobs this week. Right now, I am using Indeed and LinkedIn, but I also need to start checking Handshake. There's an overwhelming amount of entry level jobs out there, unfortunately, many of them list 2-3 years of experience necessary. How is that entry level?
+
+Lastly, I updated my website to reflect my LeetCode schedule and additional videos I'd like to watch. More on the LeetCode schedule below.
+
+**What do you plan to do this week?** 
+* LeetCode - [linked lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/)
+* Soft skills - [course1](https://www.linkedin.com/learning/job-interview-tips-for-software-engineers/overview-of-software-engineering-roles?u=42275329)
+                [course2](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=42275329)
+* Apply for jobs
+  * Contact the leads that a friend gave me
+  * Apply to open reqs - start checking Handshake as well
+
+**Are there any impediments in your way?**
+
+No impediments.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+
+I found that my capacity right now for LeetCode practice is one section a week. I want to review my notes from the week before, so I think doing one section every week is a good pace.
 
 ### Other Links
 [Project](./project)
 
 [Final Project Report](./final)
 
-[Back](./)
+[Home](./)
