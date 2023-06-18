@@ -19,7 +19,7 @@ Starting in week 2, I'll work on coding problems in LeetCode. If I don't underst
 
 Soft skills preparation will be in form of LinkedIn courses. I'll also study the STAR method to help me craft my "stories" for the behavioral portion of the interview process. Note, I also added the milestone due dates to my schedule below.
 
-Tentative Schedule:
+Tentative Schedule (Last updated 6/18/23):
 * Week 1: 
   * Create webpage on Github - For this week, my website only includes basic structure with a homepage and project page described herein. I'll update/ beautify the webpage as the weeks progress
   * Post project proposal to website and Piazza by **5/31**
@@ -31,32 +31,34 @@ Tentative Schedule:
       *   Review [beginner's guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
       *   Solve problems from arrays section
 * Week 3:
-  * LeetCode - continue arrays, strings, linked list
-  * Soft skills - [course](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?autoplay=true)
+  * LeetCode - continue arrays
+  * Soft skills - [course](https://www.linkedin.com/learning/expert-tips-for-answering-common-interview-questions/salary-negotiation-approach-and-tips?u=42275329)
   * Project review - **due 6/8**
 * Week 4:
   * Start applying for jobs (submit at least 4 applications if possible)
-  * LeetCode - continue linked lists, trees
-  * Soft skills - [course](https://www.linkedin.com/learning/communicating-with-confidence/speaking-with-confidence?autoplay=true)
+  * LeetCode - strings
+  * Soft skills - [course](https://www.linkedin.com/learning/interpersonal-communication/interpersonal-communication?u=42275329)
 * Week 5:
-  * LeetCode - sorting and searching
-  * Soft skills - [course](https://www.linkedin.com/learning/interpersonal-communication/interpersonal-communication?autoplay=true)
+  * LeetCode - linked list
+  * Soft skills - [course1](https://www.linkedin.com/learning/job-interview-tips-for-software-engineers/overview-of-software-engineering-roles?u=42275329)
+                  [course2](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=42275329)
   * Apply for jobs
   * Personal website - **due 6/22**
 * Week 6:
-  * LeetCode - graphs
-  * Soft skills - [course](https://www.linkedin.com/learning/interviewing-techniques-2019)
+  * LeetCode - trees
+  * Soft skills - [course1](https://www.linkedin.com/learning/interviewing-techniques-2019)
+                  [course2](https://www.youtube.com/watch?v=XKu_SEDAykw)
   * Apply for jobs
 * Week 7:
-  * LeetCode - dynamic programming
+  * LeetCode - sorting and searching
   * Apply for jobs
   * Career services/LinkedIn - **due 7/6**
 * Week 8:
-  * LeetCode - continue dynamic programming
+  * LeetCode - dynamic programming
   * Apply for jobs
   * Project update status - **due 7/13**
 * Week 9:
-  * LeetCode - rework questions that I struggled with 
+  * LeetCode - rework questions that I struggled with; study notes and rewatch videos if necessary 
   * Behavioral question practice - may need to move this up if I start getting interview call backs
     * Review STAR method
     * Interview preparation [grid](https://docs.google.com/document/d/1ZrP093PIPan-qmNflTaFe33T77jaMrrjz3VWx9vkhzw/edit)
@@ -64,7 +66,8 @@ Tentative Schedule:
   * Apply for jobs
 * Week 10:
   * LeetCode - rework questions that I struggled with   
-  * Mock interviews - find online resources, practice with friends, and other students (if possible)
+  * Mock interviews - find online resources, practice with friends, and other students
+    * Mock interviews with Shammi and Tammy have been scheduled for July 28-30. We will take turns interviewing, being the interviewer, and observing. Our goal is to practice thinking out loud and working through technical questions. We agreed that communicating effectively is a skill we need to hone by the time interviews come along.
     * Free online resources 
       * [resource 1](https://myinterviewpractice.com)
       * [resource 2](https://www.interviewbit.com/peer-mock-interview/) 
