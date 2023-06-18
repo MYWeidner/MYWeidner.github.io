@@ -98,4 +98,4 @@ Tentative Schedule (Last updated 6/18/23):
 
 [Final Project Report](./final)
 
-[Back](./)
+[Home](./)
