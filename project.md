@@ -96,6 +96,8 @@ Tentative Schedule (Last updated 6/18/23):
 ### Other Links
 [Weekly Project Updates](./updates)
 
+[Coding Notes](./codingnotes)
+
 [Final Project Report](./final)
 
 [Home](./)
