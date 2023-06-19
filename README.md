@@ -6,6 +6,8 @@ ___
 
 [Weekly Project Updates](/updates.md)
 
+[Coding Notes](/codingnotes.md)
+
 [Final Project report](/final.md)
 
 [GitHub](https://github.com/MYWeidner)
