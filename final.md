@@ -11,6 +11,8 @@ permalink: /final
 
 [Weekly Project Updates](./updates)
 
+[Coding Notes](./codingnotes)
+
 [Final Project Report](./final)
 
 [Home](./)
