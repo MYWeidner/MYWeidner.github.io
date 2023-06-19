@@ -110,6 +110,8 @@ No impediments.
 I found that my capacity right now for LeetCode practice is one section a week. I want to review my notes from the week before, so I think doing one section every week is a good pace.
 
 ### Other Links
+[Coding Notes](./codingnotes)
+
 [Project](./project)
 
 [Final Project Report](./final)
