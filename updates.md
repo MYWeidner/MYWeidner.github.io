@@ -109,6 +109,37 @@ No impediments.
 
 I found that my capacity right now for LeetCode practice is one section a week. I want to review my notes from the week before, so I think doing one section every week is a good pace.
 
+### Week 6:
+**What did you do last week?** 
+
+Last week was a busy week with other course work and an exam so I was not able to keep up the same pace as previous weeks.
+
+I watched 2 LinkedIn Learning videos both of which I would recommend. The first is [Job Interview Tips for SWE](https://www.linkedin.com/learning/job-interview-tips-for-software-engineers/overview-of-software-engineering-roles?u=42275329). The run time is 44 minutes. This video walks you through how to approach common questions asked during software engineer interviews. There are also examples of people answering these questions. I liked this video because it was specifically for SWE jobs so the responses were applicable to what I would be interviewing for. I have some time earmarked in future weeks to start writing responses for behavioral questions, so this video was a good place to start.
+
+The second video is Get Ready for [Your Coding Interview](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=42275329). The runtime is 1 hour 50 minutes, but you'll end up going longer if you try the exercises on your own. I highly recommend this video as a good starting point for those of us that are just starting out with coding interview prep. I'm only a few weeks in so I felt it was still good information. The video walks you through a tutorial of arrays (both 1D and 2D), strings, dictionaries/ hash tables, complexity, and big O notation. It's a good refresher and conceptually, it was not difficult material. The course provides you with Jupyter notebooks to use. You are also given coding practice problems to solve, and the video walks you through possible solutions complete with code and complexity explanations. The coding questions are not super difficult (I would say they would be marked as easy in LeetCode), but it gets you thinking on how you can approach the problems when you're on the spot during an interview. The presenter stresses the need to ask your coding interviewer questions and even gives examples as to what he would ask. The biggest take aways was that I need to be prepared to think out loud, ask questions before I dive into problem solving, and be able to walk the interviewer through my thought process on paper or white board before I start coding. You must be able to explain yourself clearly since the interviewer wants to "see" how you think.
+
+[Certificate of Completion 1](./CertOfCompl/JobInterviewTipsforSWE.pdf)
+[Certificate of Completion 2](./CertOfCompl/GetReadyCodingInterview.pdf)
+
+
+I applied to 7 jobs this week. I started using Handshake as well as Indeed and LinkedIn. I mentioned last week the overwhelming number of jobs out there for entry level positions that require years of experience. I updated my searches to include new grad and associate positions and applied to a few of those. Let's see if I hear anything back. I also reached out to some contacts that a friend gave me. I think these leads might be dead ends as they are currently only hiring for in office positions and I don't live on the East coast, but it doesn't hurt to make a connection.
+
+**What do you plan to do this week?** 
+* Update my project timeline to reflect new LeetCode schedule 
+* LeetCode - [linked lists](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/)
+* Review coding notes from previous weeks
+* Soft skills - [LinkedIn](https://www.linkedin.com/learning/interviewing-techniques-2019/interview-techniques-to-attract-the-best-talent?u=42275329)
+                [YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw)
+* Apply for jobs
+
+**Are there any impediments in your way?**
+
+No impediments.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+
+I like the process that I am using now. Last week I didn't have as much time to dedicate to LeetCode problem solving, but I'm planning to make it up this week. I still believe one section a week is a good pace.
+
 ### Other Links
 [Coding Notes](./codingnotes)
 
