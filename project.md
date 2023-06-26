@@ -19,7 +19,7 @@ Starting in week 2, I'll work on coding problems in LeetCode. If I don't underst
 
 Soft skills preparation will be in form of LinkedIn courses. I'll also study the STAR method to help me craft my "stories" for the behavioral portion of the interview process. Note, I also added the milestone due dates to my schedule below.
 
-Tentative Schedule (Last updated 6/18/23):
+Tentative Schedule (Last updated 6/26/23):
 * Week 1: 
   * Create webpage on Github - For this week, my website only includes basic structure with a homepage and project page described herein. I'll update/ beautify the webpage as the weeks progress
   * Post project proposal to website and Piazza by **5/31**
@@ -39,26 +39,25 @@ Tentative Schedule (Last updated 6/18/23):
   * LeetCode - strings
   * Soft skills - [course](https://www.linkedin.com/learning/interpersonal-communication/interpersonal-communication?u=42275329)
 * Week 5:
-  * LeetCode - linked list
   * Soft skills - [course1](https://www.linkedin.com/learning/job-interview-tips-for-software-engineers/overview-of-software-engineering-roles?u=42275329)
                   [course2](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=42275329)
   * Apply for jobs
   * Personal website - **due 6/22**
 * Week 6:
-  * LeetCode - trees
+  * LeetCode - linked list
   * Soft skills - [course1](https://www.linkedin.com/learning/interviewing-techniques-2019)
                   [course2](https://www.youtube.com/watch?v=XKu_SEDAykw)
   * Apply for jobs
 * Week 7:
-  * LeetCode - sorting and searching
+  * LeetCode - trees
   * Apply for jobs
   * Career services/LinkedIn - **due 7/6**
 * Week 8:
-  * LeetCode - dynamic programming
+  * LeetCode - sorting and searching
   * Apply for jobs
   * Project update status - **due 7/13**
 * Week 9:
-  * LeetCode - rework questions that I struggled with; study notes and rewatch videos if necessary 
+  * LeetCode - dynamic programming 
   * Behavioral question practice - may need to move this up if I start getting interview call backs
     * Review STAR method
     * Interview preparation [grid](https://docs.google.com/document/d/1ZrP093PIPan-qmNflTaFe33T77jaMrrjz3VWx9vkhzw/edit)
