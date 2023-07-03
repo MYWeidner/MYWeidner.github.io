@@ -154,15 +154,15 @@ If you haven't heard of the tortoise and the hare algorithm for detecting cycles
 
 I watched a couple of mock coding interview videos on YouTube. The key takeaway here is that we should be constantly communicating during a coding interview. We must ask questions, talk about strategy, and walk the interviewer through how the algorithm should work using an example.
 
-https://www.youtube.com/watch?v=XKu_SEDAykw   
-https://www.youtube.com/watch?v=yju4zwKSriI   
+[Video1](https://www.youtube.com/watch?v=XKu_SEDAykw)   
+[Video2](https://www.youtube.com/watch?v=yju4zwKSriI)   
 
 I also applied to 3 jobs this week. I found that every job that I have applied to has the option to add a cover letter. I wrote my cover letter in such a way that I can easily tweak it for each potential employer.
 
 **What do you plan to do this week?** 
 * LeetCode
-  * [additional linked list problems](https://leetcode.com/studyplan/leetcode-75/)  
-  * [trees](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/)
+  * [Additional linked list problems](https://leetcode.com/studyplan/leetcode-75/)  
+  * [Trees](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/)
 * Access to lifelong learning deliverable
 * Apply for jobs
 * Update project weekly schedule to add additional linked list problems in week 7
