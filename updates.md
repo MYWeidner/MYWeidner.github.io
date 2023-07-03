@@ -141,6 +141,41 @@ No impediments.
 
 I like the process that I am using now. Last week I didn't have as much time to dedicate to LeetCode problem solving, but I'm planning to make it up this week. I still believe one section a week is a good pace.
 
+### Week 7:
+**What did you do last week?** 
+
+Last week, I studied my LeetCode string and array notes. I also completed the [linked list](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/) section in LeetCode. I spent some time watching the NeetCode videos for each of the linked list problems that I worked. It's been a long time since I worked linked list problems so I'm rusty here and need to practice more. I tripped myself up on pointer updating. 
+
+If you haven't heard of the tortoise and the hare algorithm for detecting cycles in linked lists, you should watch the NeetCode [video](https://www.youtube.com/watch?v=gBTe7lFR3vc). It does a good job explaining why the time complexity is always O(n). I also found a good resource that outlines the [common patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) that can be used to solve coding interview questions. The article provides tips on when to use each algorithm, so I'll have to keep this in mind as I keep studying.
+
+[Progress Report](./CodingPractice/Progress/LinkedList.png)
+
+[My Linked List Notes](./CodingPractice/LinkedList.docx)
+
+I watched a couple of mock coding interview videos on YouTube. The key takeaway here is that we should be constantly communicating during a coding interview. We must ask questions, talk about strategy, and walk the interviewer through how the algorithm should work using an example.
+
+https://www.youtube.com/watch?v=XKu_SEDAykw   
+https://www.youtube.com/watch?v=yju4zwKSriI   
+
+I also applied to 3 jobs this week. I found that every job that I have applied to has the option to add a cover letter. I wrote my cover letter in such a way that I can easily tweak it for each potential employer.
+
+**What do you plan to do this week?** 
+* LeetCode
+  * [additional linked list problems](https://leetcode.com/studyplan/leetcode-75/)  
+  * [trees](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/)
+* Access to lifelong learning deliverable
+* Apply for jobs
+* Update project weekly schedule to add additional linked list problems in week 7
+
+**Are there any impediments in your way?**
+
+No impediments.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+
+I like the process that I am using and plan to stick with it. Given my work load this summer, working one topic in LeetCode a week is as much as I can handle.
+
+
 ### Other Links
 [Coding Notes](./codingnotes)
 
