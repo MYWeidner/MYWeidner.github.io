@@ -19,7 +19,7 @@ Starting in week 2, I'll work on coding problems in LeetCode. If I don't underst
 
 Soft skills preparation will be in form of LinkedIn courses. I'll also study the STAR method to help me craft my "stories" for the behavioral portion of the interview process. Note, I also added the milestone due dates to my schedule below.
 
-Tentative Schedule (Last updated 6/26/23):
+Tentative Schedule (Last updated 7/3/23):
 * Week 1: 
   * Create webpage on Github - For this week, my website only includes basic structure with a homepage and project page described herein. I'll update/ beautify the webpage as the weeks progress
   * Post project proposal to website and Piazza by **5/31**
@@ -49,7 +49,9 @@ Tentative Schedule (Last updated 6/26/23):
                   [course2](https://www.youtube.com/watch?v=XKu_SEDAykw)
   * Apply for jobs
 * Week 7:
-  * LeetCode - trees
+  * LeetCode
+    * Linked list 
+    * Trees
   * Apply for jobs
   * Career services/LinkedIn - **due 7/6**
 * Week 8:
