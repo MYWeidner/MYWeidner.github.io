@@ -177,10 +177,13 @@ I like the process that I am using and plan to stick with it. Given my work load
 
 
 ### Other Links
-[Coding Notes](./codingnotes)
 
-[Project](./project)
+[Project Proposal](./project)
 
 [Final Project Report](./final)
+
+[Coding Notes](./codingnotes)
+
+[VMock: Resource Overview](./vmock)
 
 [Home](./)
