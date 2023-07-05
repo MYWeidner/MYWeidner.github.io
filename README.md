@@ -2,12 +2,14 @@
 
 ### Directory
 ___
-[Project](/project.md)
+[Project Proposal](/project.md)
 
 [Weekly Project Updates](/updates.md)
 
 [Coding Notes](/codingnotes.md)
 
-[Final Project report](/final.md)
+[Final Project Report](/final.md)
+
+[VMock: Resource Overview](/vmock.md)
 
 [GitHub](https://github.com/MYWeidner)
