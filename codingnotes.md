@@ -13,10 +13,12 @@ Repository for notes taken while solving LeetCode problems
 * [Linked List](./CodingPractice/LinkedList.docx)
 
 ### Other Links
-[Project](./project)
+[Project Proposal](./project)
 
 [Weekly Project Updates](./updates)
 
 [Final Project Report](./final)
+
+[VMock: Resource Overview](./vmock)
 
 [Home](./)
