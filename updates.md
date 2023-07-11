@@ -175,6 +175,55 @@ No impediments.
 
 I like the process that I am using and plan to stick with it. Given my work load this summer, working one topic in LeetCode a week is as much as I can handle.
 
+### Week 8 - Mid-Semester Project Update:
+With only a few weeks remaining in the semester, it's a good time to reflect on the status of my project in relation to the goals and schedule that I proposed. 
+
+Accomplishments:
+* I've been deligently working coding problems from LeetCode's Easy [Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) every week and have been keeping notes describing the strategy for solving each problem, time and space complexity, and screenshots of my solution.
+  * Sections completed (see [notes](./codingnotes))
+    * Array
+    * Strings
+    * Linked List
+    * Trees (completed last week)
+* I used VMock to optimize my resume, cover letter, and LinkedIn profile.
+* I watched several hours of LinkedIn Learning and YouTube videos designed to prepare me for interviews.
+* I applied to 19 jobs thus far. I did receive a call back yesterday to schedule an interview. I haven't heard back on an official date.
+
+Strategy:  
+
+Every week, I selected a section of LeetCode coding problems to work. I gave myself 20 minutes to try and solve the problem myself. Sometimes I was able to come up with a solution in that timeframe, but other times I could not. The intention behind the timeframe was so that I wouldn't get stuck working a problem for hours since I have a limited amount of time to prepare for coding interviews. I looked up the solution on YouTube for every problem I worked and documented the solution if it was different from what I had come up with. I found that it was more helpful to work a problem on paper first before trying to code.
+
+In the last couple of weeks, I've been trying to review my notes before starting on a new section. Ideally, I would like to go back and rework these problems. 
+
+Updated schedule:  
+
+I have been updating my tentative schedule as needed on my [Project Proposal page](./project). I want to start working more difficult problems from the [LeetCode 75 study plan](https://leetcode.com/studyplan/leetcode-75/). I updated my schedule based on this new study plan. Since the problems will be more difficult, I'll allow myself 30 minutes before looking for a solution if my workload in other classes allows.
+  
+* Week 8:
+  * LeetCode - Binary trees DFS and hashmaps
+  * Apply for jobs
+  * Project update status - **due 7/13**
+* Week 9:
+  * LeetCode - Binary trees BFS and queue
+  * Behavioral question practice
+    * Review STAR method
+    * Interview preparation [grid](https://docs.google.com/document/d/1ZrP093PIPan-qmNflTaFe33T77jaMrrjz3VWx9vkhzw/edit)
+    * Come up with [stories](https://docs.google.com/document/d/1-jb8qU3wDMWS859zQfOU9LDmQkG0L1-d-SYcKIPDdVg/edit)
+  * Apply for jobs
+* Week 10:
+  * Review notes in preparation for mock interview with classmates
+  * Select a problem for interviewee (July 28th)  
+  * Mock interviews with Shammi and Tammy scheduled July 28-30. We will take turns interviewing, being the interviewer, and observing. Our goal is to practice thinking out loud and working through technical questions. We agreed that communicating effectively is a skill we need to hone by the time interviews come along.
+* Week 11:  
+  * Check out mock interview free online resources
+    * [resource 1](https://myinterviewpractice.com)
+    * [resource 2](https://www.interviewbit.com/peer-mock-interview/)    
+  * Make sure I can tell my "stories" effectively
+  * LeetCode - Graphs DFS and BFS
+  * Apply for jobs
+* Week 12:
+  * Finalize project - **due 8/14**
+  * Weekly status updates - **due 7/8 - 8/10**
 
 ### Other Links
 
