@@ -19,7 +19,7 @@ Starting in week 2, I'll work on coding problems in LeetCode. If I don't underst
 
 Soft skills preparation will be in form of LinkedIn courses. I'll also study the STAR method to help me craft my "stories" for the behavioral portion of the interview process. Note, I also added the milestone due dates to my schedule below.
 
-Tentative Schedule (Last updated 7/3/23):
+Tentative Schedule (Last updated 7/11/23):
 * Week 1: 
   * Create webpage on Github - For this week, my website only includes basic structure with a homepage and project page described herein. I'll update/ beautify the webpage as the weeks progress
   * Post project proposal to website and Piazza by **5/31**
@@ -55,26 +55,27 @@ Tentative Schedule (Last updated 7/3/23):
   * Apply for jobs
   * Career services/LinkedIn - **due 7/6**
 * Week 8:
-  * LeetCode - sorting and searching
+  * LeetCode - Binary trees DFS and hash maps
   * Apply for jobs
   * Project update status - **due 7/13**
 * Week 9:
-  * LeetCode - dynamic programming 
-  * Behavioral question practice - may need to move this up if I start getting interview call backs
+  * LeetCode - Binary trees BFS and queue
+  * Behavioral question practice
     * Review STAR method
-    * Interview preparation [grid](https://docs.google.com/document/d/1ZrP093PIPan-qmNflTaFe33T77jaMrrjz3VWx9vkhzw/edit)
-    * Come up with [stories](https://docs.google.com/document/d/1-jb8qU3wDMWS859zQfOU9LDmQkG0L1-d-SYcKIPDdVg/edit)
+      * Interview preparation [grid](https://docs.google.com/document/d/1ZrP093PIPan-qmNflTaFe33T77jaMrrjz3VWx9vkhzw/edit)
+      * Come up with [stories](https://docs.google.com/document/d/1-jb8qU3wDMWS859zQfOU9LDmQkG0L1-d-SYcKIPDdVg/edit)
   * Apply for jobs
 * Week 10:
-  * LeetCode - rework questions that I struggled with   
-  * Mock interviews - find online resources, practice with friends, and other students
-    * Mock interviews with Shammi and Tammy have been scheduled for July 28-30. We will take turns interviewing, being the interviewer, and observing. Our goal is to practice thinking out loud and working through technical questions. We agreed that communicating effectively is a skill we need to hone by the time interviews come along.
-    * Free online resources 
-      * [resource 1](https://myinterviewpractice.com)
-      * [resource 2](https://www.interviewbit.com/peer-mock-interview/) 
+  * LeetCode - Review notes in preparation for mock interview with classmates
+  * Select a problem for interviewee (July 28th)
+  * Mock interviews with Shammi and Tammy scheduled July 28-30. We will take turns interviewing, being the interviewer, and observing. Our goal is to practice thinking out loud and working through technical questions. We agreed that communicating effectively is a skill we need to hone by the time interviews come along.
 * Week 11:
-  * Continue reworking difficult LeetCode questions and mock interviews
+  * Free online resources 
+    * [resource 1](https://myinterviewpractice.com)
+    * [resource 2](https://www.interviewbit.com/peer-mock-interview/) 
+  * LeetCode - Graphs DFS and BFS
   * Make sure I can tell my "stories" effectively
+  * Apply for jobs
 * Week 12:
   * Finalize project - **due 8/14**
   * Weekly status updates - **due 7/8 - 8/10**
