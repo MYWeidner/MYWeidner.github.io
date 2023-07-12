@@ -175,11 +175,39 @@ No impediments.
 
 I like the process that I am using and plan to stick with it. Given my work load this summer, working one topic in LeetCode a week is as much as I can handle.
 
+### Week 8:
+**What did you do last week?** 
+
+Last week, I studied my LeetCode notes. I also completed the [linked list](https://leetcode.com/studyplan/leetcode-75/) and [trees](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/) sections in LeetCode. I spent some time watching the NeetCode videos for each of these problems. I need to spend more time working tree problems. I feel more comfortable with linked list now that I spent another week on these problems.
+
+[Progress Report](./CodingPractice/Progress/LinkedList_Trees.png)
+
+[My Updated Linked List Notes](./CodingPractice/LinkedList.docx)  
+[My Tree Notes](./CodingPractice/Trees.docx)
+
+I used VMock to spruce up my LinkedIn profile. See my write up on this [activity](./vmock).  
+
+I also applied to 5 jobs this week.
+
+**What do you plan to do this week?** 
+* LeetCode
+  * [Binary trees DFS and Hashmaps](https://leetcode.com/studyplan/leetcode-75/) 
+* Apply for jobs
+* Mid-semester project update
+
+**Are there any impediments in your way?**
+
+No impediments.
+
+**Reflection on the process you used last week, how can you make the process work better?**
+
+I'm switching to the LeetCode 75 study plan. The plan is ideal for people that have 1-3 months of prep time. I feel like I am ready for medium problems.
+
 ### Week 8 - Mid-Semester Project Update:
 With only a few weeks remaining in the semester, it's a good time to reflect on the status of my project in relation to the goals and schedule that I proposed. 
 
 Accomplishments:
-* I've been deligently working coding problems from LeetCode's Easy [Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) every week and have been keeping notes describing the strategy for solving each problem, time and space complexity, and screenshots of my solution.
+* I've been diligently working coding problems from LeetCode's Easy [Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) every week and have been keeping notes describing the strategy for solving each problem, time and space complexity, and screenshots of my solution.
   * Sections completed (see [notes](./codingnotes))
     * Array
     * Strings
